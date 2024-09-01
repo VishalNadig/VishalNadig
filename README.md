@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=VishalNadig.VishalNadig" />
 <!--
 **VishalNadig/VishalNadig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
